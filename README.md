@@ -64,7 +64,6 @@ O código-fonte está organizado em três Jupyter Notebooks principais, cada um 
     ```bash
     pip install -r requirements.txt
     ```
-    *(**Nota**: Certifique-se de criar um arquivo `requirements.txt` com as bibliotecas listadas acima).*
 
 3.  **Configure sua chave da API da OpenAI:**
     *   Crie um arquivo `.env` na raiz do projeto e adicione sua chave:
