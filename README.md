@@ -1,9 +1,3 @@
-Perfeito! A conclusão é uma parte crucial do `README`. Incorporei essa informação de forma clara e direta na seção de Resultados.
-
-Aqui está a versão atualizada da descrição. Basta copiar e colar em seu arquivo `README.md`.
-
----
-
 # 📊 Backtesting de Recomendações do ChatGPT na Bolsa de Valores
 
 Este projeto realiza um levantamento estatístico para avaliar a eficácia do modelo de linguagem **ChatGPT (baseado no GPT-3)** em fornecer recomendações de investimento (compra/venda) baseadas em análise técnica de gráficos de ações.
