@@ -1,6 +1,6 @@
 # 📊 Backtesting de Recomendações do ChatGPT na Bolsa de Valores
 
-Este projeto realiza um levantamento estatístico para avaliar a eficácia do modelo de linguagem **ChatGPT (baseado no GPT-3)** em fornecer recomendações de investimento (compra/venda) baseadas em análise técnica de gráficos de ações.
+Este projeto realiza um levantamento estatístico para avaliar a eficácia do modelo de linguagem **ChatGPT (baseado no GPT-o3)** em fornecer recomendações de investimento (compra/venda) baseadas em análise técnica de gráficos de ações.
 
 ## 📝 Sobre o Projeto
 
